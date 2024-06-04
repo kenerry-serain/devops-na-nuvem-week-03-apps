@@ -1,14 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-### DotnetCore ###
-# .NET Core build folders
-bin/
-obj/
-
-# Common node modules locations
-/node_modules
-/wwwroot/node_modules
-
-# End of https://www.toptal.com/developers/gitignore/api/dotnetcore
 # dependencies
 /node_modules
 /.pnp
